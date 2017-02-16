@@ -1,0 +1,8 @@
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\bin\Debug\aMtM.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\bin\Debug\aMtM.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\obj\Debug\aMtM.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\obj\Debug\aMtM.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\obj\Debug\aMtM.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\bin\Debug\Interop.WMPLib.dll
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\obj\Debug\Interop.WMPLib.dll
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aMtM\aMtM\obj\Debug\aMtM.csproj.ResolveComReference.cache
